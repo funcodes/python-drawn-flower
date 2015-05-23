@@ -15,4 +15,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-flower
+flowerflower
+
+green flower
